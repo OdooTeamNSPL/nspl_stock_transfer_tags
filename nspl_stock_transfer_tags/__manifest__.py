@@ -1,6 +1,6 @@
 {
     'name': 'Stock Picking Tag',
-    'version': '18.0.1.0.0',
+    'version': '19.0.1.0.0',
     'summary': 'Add tag field to stock picking (Receipts)',
     'description': """
 Stock Picking Tag
